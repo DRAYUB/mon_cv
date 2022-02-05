@@ -1,0 +1,35 @@
+p
+{
+    color: orange;
+    
+}
+h1
+{
+    font-size: 30px;
+    color: green;
+    background-color: greenyellow;
+    text-decoration: underline;
+    text-align: center;
+    border: 5px gray solid;
+    border-radius: 90px 90px ;
+    box-shadow: 5px 5px 10px black;
+}
+h2
+{
+    color: rgb(6, 95, 11);
+    font-size: 30px;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: orange;
+    background-size: calc(10mm);
+    border: 2px greenyellow solid;
+    border-radius: 200px 200px;
+    box-shadow: 5px 5px 10px black;
+    text-shadow: 5px 15px 5px black;
+    text-align: center;
+    opacity: 0.5;
+}
+.flottant
+{
+    float: right;
+}
